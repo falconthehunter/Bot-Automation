@@ -27,7 +27,7 @@ You can install Python 3 by following the instructions on the [official Python w
 
 3. Run the bot automation script:
 ```bash
-python3 bot_script.py
+python3 bot.py
 ```
 The script will:
 
